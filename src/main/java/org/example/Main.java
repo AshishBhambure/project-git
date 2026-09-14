@@ -7,5 +7,6 @@ public class Main {
         // to see how IntelliJ IDEA suggests fixing it.
 
         System.out.println("DeveloperA Says Hello Again! Doing changes As was suggested");
+        System.out.println("DevB Says: Hello DevA");
     }
 }
